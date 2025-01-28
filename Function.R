@@ -1,3 +1,4 @@
 testPositive <- function(x){
-  return(all(x>0))
+  #test if it is positive
+  return(all(x > 0))
 }
